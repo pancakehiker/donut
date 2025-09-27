@@ -7,6 +7,7 @@ Hello! First test repo to learn Git.
 ## 📂 Zawartość
 
 - `hello.txt` - pierwszy testowy plik
+- `avatar_pancakehiker.png` - mój avatar
 
 ### 🥞 Autor
 pancakehiker
